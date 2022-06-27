@@ -12,7 +12,7 @@ Ample experience in corporate and multicultural environments, always in search o
 
 🌍  I'm based in Porto Alegre, RS - Brazil
 
-✉️  You can contact me at [fr.cavalcanti@outlook.com](mailto:fr.cavalcanti@outlook.com)
+✉️  You can contact me at [franciscoreis85@hotmail.com](mailto:franciscoreis85@hotmail.com)
 
 :exclamation:  I'm currently working on [VolunTripr](http://voluntripr.com)
 
