@@ -1,10 +1,10 @@
 Francisco Cavalcanti
 =====================================
 
-Full-stack Web Dev
+Full Stack Dev
 ------------------
 
-Full-stack Web Dev from Le Wagon batch #898 and Business graduate with Masters in Innovation, Technology & Sustainability 
+Graduated from Le Wagon batch #898 with a Business degree and Masters in Innovation, Technology & Sustainability 
 
 My personal values led me to cofound Exchange do Bem (exchangedobem.com) where I led teams and groups of volunteers in several countries across the world such as India, South Africa, Thailand and Brazil. 
 
@@ -14,7 +14,12 @@ Ample experience in corporate and multicultural environments, always in search o
 
 ✉️  You can contact me at [franciscoreis85@hotmail.com](mailto:franciscoreis85@hotmail.com)
 
-:exclamation:  I'm currently working on [VolunTripr](http://voluntripr.com)
+My projects
+------------------
+
+[VolunTripr](http://voluntripr.com)
+
+[.lazyPaste](https://chrome.google.com/webstore/detail/lazypaste-copypaste-made/lcihbddlnmagmijpdjagepbgocchbggb)
 
 :arrow_right:  If you have any job or partnership opportunities, don't hesitate to contact me.
 
