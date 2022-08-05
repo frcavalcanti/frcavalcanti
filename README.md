@@ -15,7 +15,7 @@ My projects
 
 [**VolunTripr**](http://voluntripr.com) - Created for matching travelers wishing to volunteer at social projects offered by Exchange do Bem
 
-[**.lazyPaste**](https://chrome.google.com/webstore/detail/lazypaste-copypaste-made/lcihbddlnmagmijpdjagepbgocchbggb) - Store your most frequent used links and texts for quick access through a Chrome extension
+[**.lazyPaste**](https://github.com/frcavalcanti/.lazyPaste) - Store your most frequent used links and texts for quick access through a Chrome extension - [download link](https://chrome.google.com/webstore/detail/lazypaste-copypaste-made/lcihbddlnmagmijpdjagepbgocchbggb)
 <br>
 
 Contact
