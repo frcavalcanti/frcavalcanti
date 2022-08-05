@@ -6,7 +6,7 @@ Full Stack Dev
 
 Graduated from Le Wagon batch #898 with a Business degree and Masters in Innovation, Technology & Sustainability 
 
-My personal values led me to cofound Exchange do Bem (exchangedobem.com) where I led teams and groups of volunteers in several countries across the world such as India, South Africa, Thailand and Brazil. 
+My personal values led me to cofound [Exchange do Bem](https://www.exchangedobem.com) where I led teams and groups of volunteers in several countries across the world such as India, South Africa, Thailand and Brazil. 
 
 Ample experience in corporate and multicultural environments, always in search of challenges and with a thirst for knowledge.
 
